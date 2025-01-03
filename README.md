@@ -10,3 +10,6 @@ can be used for my crypto currency project 1 champo.
 
 
 https://www.google.fr/books/edition/Mean_Field_Type_Games_for_Engineers/qKpHEAAAQBAJ?hl=fr&gbpv=1&dq=mean+field+types+engineering&pg=PA10&printsec=frontcover
+
+
+lazy evaluation for compact code.
